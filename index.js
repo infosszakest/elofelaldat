@@ -376,3 +376,4 @@ const gotoBogyo = () => {
   window.open("https://www.facebook.com/bence.bolgovics", "_blank").focus();
 };
 //
+//
